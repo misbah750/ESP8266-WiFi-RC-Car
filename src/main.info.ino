@@ -1,4 +1,4 @@
-//RC car wife Supported //
+//RC car wifi Supported //
 // WiFi contrtol Car using Node MCU //
 #define ENA   14          // Enable/speed motors Right        GPIO14(D5)
 #define ENB   12          // Enable/speed motors Left         GPIO12(D6)
