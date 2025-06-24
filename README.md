@@ -3,13 +3,9 @@
 
 A DIY Wi-Fi controlled RC car built using the *ESP8266 NodeMCU, **L298N motor driver, and powered by **4x 4V batteries*. This project is a personal tribute to my childhood love for racing cars and combines my passion for electronics, embedded systems, and robotics.
 
----
-
 ##  Inspiration
 
 Since childhood, I’ve always been fascinated by cars — especially fast, racing ones. That curiosity eventually transformed into a desire to build something of my own. This project is a realization of that dream — a simple yet powerful Wi-Fi-enabled RC car that I can proudly say I built myself.
-
----
 
 ## ⚙ Components Used
 
@@ -79,6 +75,25 @@ Since childhood, I’ve always been fascinated by cars — especially fast, raci
 4. Upload the code (included in this repo under /src).
 5. Connect to the same Wi-Fi network from your phone.
 
----
+
 
 ## 📦 Folder Structure
+ESP8266-WiFi-RC-Car/
+├── src/
+│   └── main.ino          
+├── README.md
+
+##  Future Improvements
+
+- Add obstacle avoidance sensors (ultrasonic)
+- Bluetooth fallback control
+- Web-based control interface
+- Camera module for FPV control
+
+## 📬 Contact
+
+📧 [misbahulhasan219@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/misbah-ul-hasan-38b0265)  
+🐙 GitHub: [misbah750](https://github.com/misbah750)
+
+
